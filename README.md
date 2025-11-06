@@ -9,10 +9,7 @@ Profissional em transição de carreira para a área de Dados, com sólida exper
 
 ## Habilidades
 
-- Power BI
-- SQL
-- Git / GitHub
-- Storytelling
+Power BI | SQL | Git / GitHub | Storytelling
 
 ---
 
